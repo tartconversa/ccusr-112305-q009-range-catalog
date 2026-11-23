@@ -1,0 +1,32 @@
+[
+  {
+    "receipt": "T1",
+    "exchange": "E2",
+    "beneficiary": "U014",
+    "payer": "商家",
+    "kind": "运费",
+    "cny": 8,
+    "state": "已到账",
+    "week": "W11"
+  },
+  {
+    "receipt": "T2",
+    "exchange": "E2",
+    "beneficiary": "U014",
+    "payer": "品牌",
+    "kind": "差额",
+    "cny": 10,
+    "state": "已到账",
+    "week": "W11"
+  },
+  {
+    "receipt": "T3",
+    "exchange": "E1",
+    "beneficiary": "U014",
+    "payer": "商家",
+    "kind": "运费",
+    "cny": 12,
+    "state": "待认可",
+    "week": "W13"
+  }
+]

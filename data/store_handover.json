@@ -1,0 +1,93 @@
+[
+  {
+    "record": "H1",
+    "exchange": "E1",
+    "order": "O1",
+    "issuer": "北柜",
+    "acceptor": "南柜",
+    "sku": "B1",
+    "version": "V3",
+    "units": 1,
+    "kind": "原店认可",
+    "received": "W10",
+    "reference": null
+  },
+  {
+    "record": "H2",
+    "exchange": "E2",
+    "order": "O2",
+    "issuer": "北柜",
+    "acceptor": "南柜",
+    "sku": "B1",
+    "version": "V3",
+    "units": 1,
+    "kind": "柜台接收",
+    "received": "W11",
+    "reference": null
+  },
+  {
+    "record": "H3",
+    "exchange": "E2",
+    "order": "O2",
+    "issuer": "南柜",
+    "acceptor": "北柜",
+    "sku": "B1",
+    "version": "V3",
+    "units": 1,
+    "kind": "签收",
+    "received": "W11",
+    "reference": "H2"
+  },
+  {
+    "record": "H4",
+    "exchange": "E1",
+    "order": "O1",
+    "issuer": "北柜",
+    "acceptor": "南柜",
+    "sku": "B1",
+    "version": "V4",
+    "units": 1,
+    "kind": "等待回货",
+    "received": "W12",
+    "reference": "H1"
+  },
+  {
+    "record": "H5",
+    "exchange": "E1",
+    "order": "O1",
+    "issuer": "南柜",
+    "acceptor": "北柜",
+    "sku": "B1",
+    "version": "V4",
+    "units": 0,
+    "kind": "拒绝收件",
+    "received": "W13",
+    "reference": "H4"
+  },
+  {
+    "record": "H6",
+    "exchange": "E3",
+    "order": "O3",
+    "issuer": "南柜",
+    "acceptor": "北柜",
+    "sku": "S1",
+    "version": null,
+    "units": 1,
+    "kind": "版本待确认",
+    "received": "W12",
+    "reference": null
+  },
+  {
+    "record": "H7",
+    "exchange": "E3",
+    "order": "O3",
+    "issuer": "南柜",
+    "acceptor": "北柜",
+    "sku": "S1",
+    "version": "V1",
+    "units": 1,
+    "kind": "版次回执",
+    "received": "W13",
+    "reference": "H6"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "reading": "R1",
+    "wearer": "U014",
+    "measured_axis": "手围",
+    "sample_week": "W06",
+    "lo_mm": 185,
+    "hi_mm": 191,
+    "scope": "实物试穿",
+    "method": "量表1",
+    "received": "W06"
+  },
+  {
+    "reading": "R2",
+    "wearer": "U014",
+    "measured_axis": "指长",
+    "sample_week": "W12",
+    "lo_mm": 69,
+    "hi_mm": 73,
+    "scope": "跨店复测",
+    "method": "量表3",
+    "received": "W13"
+  },
+  {
+    "reading": "R3",
+    "wearer": "U016",
+    "measured_axis": "手围",
+    "sample_week": "W08",
+    "lo_mm": 185,
+    "hi_mm": 193,
+    "scope": "单手测量",
+    "method": "量表1",
+    "received": "W09"
+  },
+  {
+    "reading": "R4",
+    "wearer": "U014",
+    "measured_axis": "手围",
+    "sample_week": "W12",
+    "lo_mm": 190,
+    "hi_mm": 196,
+    "scope": "跨店双手复测",
+    "method": "量表2",
+    "received": "W13"
+  }
+]

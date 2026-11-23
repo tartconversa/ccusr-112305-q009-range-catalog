@@ -21,3 +21,11 @@ class SourceContractTest(unittest.TestCase):
         exchanges = read_table("exchanges")
         self.assertTrue(any(row["order"] == "O2" and row["status"] == "已签收" for row in exchanges))
         self.assertTrue(any(row["order"] == "O1" and row["status"] == "已受理" for row in exchanges))
+
+    def test_exchange_receipts_inputs(self):
+        sources = [read_table(name) for name in ['provider_reports', 'store_handover', 'compensation_receipts', 'exchanges']]
+        self.assertEqual({x["measured_axis"] for x in sources[0] if x["wearer"]=="U014"},{"手围","指长"})
+        self.assertTrue(all(x["exchange"] in {e["exchange"] for e in sources[3]} for x in sources[1]))
+        self.assertTrue(any(x["version"] is None for x in sources[1]))
+        self.assertEqual({x["state"] for x in sources[2]},{"已到账","待认可"})
+
