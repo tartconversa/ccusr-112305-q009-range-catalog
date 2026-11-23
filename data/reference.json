@@ -1,0 +1,394 @@
+[
+  {
+    "person": "U001",
+    "circumference": 172,
+    "finger": 66,
+    "size_cohort": "青少年",
+    "recorded": "W01"
+  },
+  {
+    "person": "U002",
+    "circumference": 173,
+    "finger": 67,
+    "size_cohort": "专业",
+    "recorded": "W01"
+  },
+  {
+    "person": "U004",
+    "circumference": 175,
+    "finger": 69,
+    "size_cohort": "青少年",
+    "recorded": "W01"
+  },
+  {
+    "person": "U005",
+    "circumference": 176,
+    "finger": 70,
+    "size_cohort": "专业",
+    "recorded": "W01"
+  },
+  {
+    "person": "U007",
+    "circumference": 178,
+    "finger": 72,
+    "size_cohort": "青少年",
+    "recorded": "W01"
+  },
+  {
+    "person": "U008",
+    "circumference": 179,
+    "finger": 73,
+    "size_cohort": "专业",
+    "recorded": "W01"
+  },
+  {
+    "person": "U010",
+    "circumference": 181,
+    "finger": 75,
+    "size_cohort": "青少年",
+    "recorded": "W01"
+  },
+  {
+    "person": "U011",
+    "circumference": 182,
+    "finger": 76,
+    "size_cohort": "专业",
+    "recorded": "W01"
+  },
+  {
+    "person": "U013",
+    "circumference": 184,
+    "finger": 78,
+    "size_cohort": "青少年",
+    "recorded": "W02"
+  },
+  {
+    "person": "U014",
+    "circumference": 185,
+    "finger": 79,
+    "size_cohort": "专业",
+    "recorded": "W02"
+  },
+  {
+    "person": "U016",
+    "circumference": 187,
+    "finger": 81,
+    "size_cohort": "青少年",
+    "recorded": "W02"
+  },
+  {
+    "person": "U017",
+    "circumference": 188,
+    "finger": 65,
+    "size_cohort": "专业",
+    "recorded": "W02"
+  },
+  {
+    "person": "U019",
+    "circumference": 190,
+    "finger": 67,
+    "size_cohort": "青少年",
+    "recorded": "W02"
+  },
+  {
+    "person": "U020",
+    "circumference": 191,
+    "finger": 68,
+    "size_cohort": "专业",
+    "recorded": "W02"
+  },
+  {
+    "person": "U022",
+    "circumference": 193,
+    "finger": 70,
+    "size_cohort": "青少年",
+    "recorded": "W02"
+  },
+  {
+    "person": "U023",
+    "circumference": 194,
+    "finger": 71,
+    "size_cohort": "专业",
+    "recorded": "W02"
+  },
+  {
+    "person": "U025",
+    "circumference": 196,
+    "finger": 73,
+    "size_cohort": "青少年",
+    "recorded": "W03"
+  },
+  {
+    "person": "U026",
+    "circumference": 197,
+    "finger": 74,
+    "size_cohort": "专业",
+    "recorded": "W03"
+  },
+  {
+    "person": "U028",
+    "circumference": 199,
+    "finger": 76,
+    "size_cohort": "青少年",
+    "recorded": "W03"
+  },
+  {
+    "person": "U029",
+    "circumference": 200,
+    "finger": 77,
+    "size_cohort": "专业",
+    "recorded": "W03"
+  },
+  {
+    "person": "U031",
+    "circumference": 202,
+    "finger": 79,
+    "size_cohort": "青少年",
+    "recorded": "W03"
+  },
+  {
+    "person": "U032",
+    "circumference": 203,
+    "finger": 80,
+    "size_cohort": "专业",
+    "recorded": "W03"
+  },
+  {
+    "person": "U034",
+    "circumference": 172,
+    "finger": 65,
+    "size_cohort": "青少年",
+    "recorded": "W03"
+  },
+  {
+    "person": "U035",
+    "circumference": 173,
+    "finger": 66,
+    "size_cohort": "专业",
+    "recorded": "W03"
+  },
+  {
+    "person": "U037",
+    "circumference": 175,
+    "finger": 68,
+    "size_cohort": "青少年",
+    "recorded": "W04"
+  },
+  {
+    "person": "U038",
+    "circumference": 176,
+    "finger": 69,
+    "size_cohort": "专业",
+    "recorded": "W04"
+  },
+  {
+    "person": "U040",
+    "circumference": 178,
+    "finger": 71,
+    "size_cohort": "青少年",
+    "recorded": "W04"
+  },
+  {
+    "person": "U041",
+    "circumference": 179,
+    "finger": 72,
+    "size_cohort": "专业",
+    "recorded": "W04"
+  },
+  {
+    "person": "U043",
+    "circumference": 181,
+    "finger": 74,
+    "size_cohort": "青少年",
+    "recorded": "W04"
+  },
+  {
+    "person": "U044",
+    "circumference": 182,
+    "finger": 75,
+    "size_cohort": "专业",
+    "recorded": "W04"
+  },
+  {
+    "person": "U046",
+    "circumference": 184,
+    "finger": 77,
+    "size_cohort": "青少年",
+    "recorded": "W04"
+  },
+  {
+    "person": "U047",
+    "circumference": 185,
+    "finger": 78,
+    "size_cohort": "专业",
+    "recorded": "W04"
+  },
+  {
+    "person": "U049",
+    "circumference": 187,
+    "finger": 80,
+    "size_cohort": "青少年",
+    "recorded": "W05"
+  },
+  {
+    "person": "U050",
+    "circumference": 188,
+    "finger": 81,
+    "size_cohort": "专业",
+    "recorded": "W05"
+  },
+  {
+    "person": "U052",
+    "circumference": 190,
+    "finger": 66,
+    "size_cohort": "青少年",
+    "recorded": "W05"
+  },
+  {
+    "person": "U053",
+    "circumference": 191,
+    "finger": 67,
+    "size_cohort": "专业",
+    "recorded": "W05"
+  },
+  {
+    "person": "U055",
+    "circumference": 193,
+    "finger": 69,
+    "size_cohort": "青少年",
+    "recorded": "W05"
+  },
+  {
+    "person": "U056",
+    "circumference": 194,
+    "finger": 70,
+    "size_cohort": "专业",
+    "recorded": "W05"
+  },
+  {
+    "person": "U058",
+    "circumference": 196,
+    "finger": 72,
+    "size_cohort": "青少年",
+    "recorded": "W05"
+  },
+  {
+    "person": "U059",
+    "circumference": 197,
+    "finger": 73,
+    "size_cohort": "专业",
+    "recorded": "W05"
+  },
+  {
+    "person": "U061",
+    "circumference": 199,
+    "finger": 75,
+    "size_cohort": "青少年",
+    "recorded": "W06"
+  },
+  {
+    "person": "U062",
+    "circumference": 200,
+    "finger": 76,
+    "size_cohort": "专业",
+    "recorded": "W06"
+  },
+  {
+    "person": "U064",
+    "circumference": 202,
+    "finger": 78,
+    "size_cohort": "青少年",
+    "recorded": "W06"
+  },
+  {
+    "person": "U065",
+    "circumference": 203,
+    "finger": 79,
+    "size_cohort": "专业",
+    "recorded": "W06"
+  },
+  {
+    "person": "U067",
+    "circumference": 172,
+    "finger": 81,
+    "size_cohort": "青少年",
+    "recorded": "W06"
+  },
+  {
+    "person": "U068",
+    "circumference": 173,
+    "finger": 65,
+    "size_cohort": "专业",
+    "recorded": "W06"
+  },
+  {
+    "person": "U070",
+    "circumference": 175,
+    "finger": 67,
+    "size_cohort": "青少年",
+    "recorded": "W06"
+  },
+  {
+    "person": "U071",
+    "circumference": 176,
+    "finger": 68,
+    "size_cohort": "专业",
+    "recorded": "W06"
+  },
+  {
+    "person": "U073",
+    "circumference": 178,
+    "finger": 70,
+    "size_cohort": "青少年",
+    "recorded": "W07"
+  },
+  {
+    "person": "U074",
+    "circumference": 179,
+    "finger": 71,
+    "size_cohort": "专业",
+    "recorded": "W07"
+  },
+  {
+    "person": "U076",
+    "circumference": 181,
+    "finger": 73,
+    "size_cohort": "青少年",
+    "recorded": "W07"
+  },
+  {
+    "person": "U077",
+    "circumference": 182,
+    "finger": 74,
+    "size_cohort": "专业",
+    "recorded": "W07"
+  },
+  {
+    "person": "U079",
+    "circumference": 184,
+    "finger": 76,
+    "size_cohort": "青少年",
+    "recorded": "W07"
+  },
+  {
+    "person": "U080",
+    "circumference": 185,
+    "finger": 77,
+    "size_cohort": "专业",
+    "recorded": "W07"
+  },
+  {
+    "person": "U082",
+    "circumference": 187,
+    "finger": 79,
+    "size_cohort": "青少年",
+    "recorded": "W07"
+  },
+  {
+    "person": "U083",
+    "circumference": 188,
+    "finger": 80,
+    "size_cohort": "专业",
+    "recorded": "W07"
+  }
+]

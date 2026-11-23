@@ -1,0 +1,50 @@
+[
+  {
+    "order": "O1",
+    "holder": "U014",
+    "sku": "S2",
+    "version": "V1",
+    "purchase": "W06",
+    "side": "左",
+    "partner": "O2",
+    "limits": 35,
+    "sku_paid": 108,
+    "state": "已签收"
+  },
+  {
+    "order": "O2",
+    "holder": "U014",
+    "sku": "S2",
+    "version": "V1",
+    "purchase": "W06",
+    "side": "右",
+    "partner": "O1",
+    "limits": 35,
+    "sku_paid": 108,
+    "state": "已签收"
+  },
+  {
+    "order": "O3",
+    "holder": "U016",
+    "sku": "B1",
+    "version": "V3",
+    "purchase": "W08",
+    "side": "双",
+    "partner": null,
+    "limits": 25,
+    "sku_paid": 124,
+    "state": "在途"
+  },
+  {
+    "order": "O4",
+    "holder": "U017",
+    "sku": "S2",
+    "version": "V2",
+    "purchase": "W10",
+    "side": "双",
+    "partner": null,
+    "limits": 40,
+    "sku_paid": 108,
+    "state": "待发货"
+  }
+]

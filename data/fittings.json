@@ -1,0 +1,3542 @@
+[
+  {
+    "person": "U000",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 172,
+    "upper_mm": 176,
+    "result": "偏紧"
+  },
+  {
+    "person": "U000",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 185,
+    "upper_mm": 193,
+    "result": "适合"
+  },
+  {
+    "person": "U000",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 65,
+    "upper_mm": 67,
+    "result": "偏松"
+  },
+  {
+    "person": "U000",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 74,
+    "upper_mm": 77,
+    "result": "单边未知"
+  },
+  {
+    "person": "U001",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 173,
+    "upper_mm": 177,
+    "result": "适合"
+  },
+  {
+    "person": "U001",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "偏松"
+  },
+  {
+    "person": "U001",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 66,
+    "upper_mm": 68,
+    "result": "单边未知"
+  },
+  {
+    "person": "U001",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 75,
+    "upper_mm": 78,
+    "result": "偏紧"
+  },
+  {
+    "person": "U002",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 174,
+    "upper_mm": 178,
+    "result": "偏松"
+  },
+  {
+    "person": "U002",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "单边未知"
+  },
+  {
+    "person": "U002",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 67,
+    "upper_mm": 69,
+    "result": "偏紧"
+  },
+  {
+    "person": "U003",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 175,
+    "upper_mm": 179,
+    "result": "单边未知"
+  },
+  {
+    "person": "U003",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "偏紧"
+  },
+  {
+    "person": "U003",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 77,
+    "upper_mm": 80,
+    "result": "偏松"
+  },
+  {
+    "person": "U004",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 176,
+    "upper_mm": 180,
+    "result": "偏紧"
+  },
+  {
+    "person": "U004",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "适合"
+  },
+  {
+    "person": "U004",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 69,
+    "upper_mm": 71,
+    "result": "偏松"
+  },
+  {
+    "person": "U004",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 78,
+    "upper_mm": 81,
+    "result": "单边未知"
+  },
+  {
+    "person": "U005",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 177,
+    "upper_mm": 181,
+    "result": "适合"
+  },
+  {
+    "person": "U005",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "偏松"
+  },
+  {
+    "person": "U005",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 70,
+    "upper_mm": 72,
+    "result": "单边未知"
+  },
+  {
+    "person": "U005",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 79,
+    "upper_mm": 82,
+    "result": "偏紧"
+  },
+  {
+    "person": "U006",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 178,
+    "upper_mm": 182,
+    "result": "偏松"
+  },
+  {
+    "person": "U006",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "单边未知"
+  },
+  {
+    "person": "U006",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 71,
+    "upper_mm": 73,
+    "result": "偏紧"
+  },
+  {
+    "person": "U006",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 80,
+    "upper_mm": 83,
+    "result": "适合"
+  },
+  {
+    "person": "U007",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 179,
+    "upper_mm": 183,
+    "result": "单边未知"
+  },
+  {
+    "person": "U007",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 192,
+    "upper_mm": 200,
+    "result": "偏紧"
+  },
+  {
+    "person": "U007",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 72,
+    "upper_mm": 74,
+    "result": "适合"
+  },
+  {
+    "person": "U008",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 180,
+    "upper_mm": 184,
+    "result": "偏紧"
+  },
+  {
+    "person": "U008",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "适合"
+  },
+  {
+    "person": "U008",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 82,
+    "upper_mm": 85,
+    "result": "单边未知"
+  },
+  {
+    "person": "U009",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 181,
+    "upper_mm": 185,
+    "result": "适合"
+  },
+  {
+    "person": "U009",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 194,
+    "upper_mm": 202,
+    "result": "偏松"
+  },
+  {
+    "person": "U009",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 74,
+    "upper_mm": 76,
+    "result": "单边未知"
+  },
+  {
+    "person": "U009",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 83,
+    "upper_mm": 86,
+    "result": "偏紧"
+  },
+  {
+    "person": "U010",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 182,
+    "upper_mm": 186,
+    "result": "偏松"
+  },
+  {
+    "person": "U010",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 195,
+    "upper_mm": 203,
+    "result": "单边未知"
+  },
+  {
+    "person": "U010",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 75,
+    "upper_mm": 77,
+    "result": "偏紧"
+  },
+  {
+    "person": "U010",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 84,
+    "upper_mm": 87,
+    "result": "适合"
+  },
+  {
+    "person": "U011",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 183,
+    "upper_mm": 187,
+    "result": "单边未知"
+  },
+  {
+    "person": "U011",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W01",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "偏紧"
+  },
+  {
+    "person": "U011",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 76,
+    "upper_mm": 78,
+    "result": "适合"
+  },
+  {
+    "person": "U011",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W01",
+    "lower_mm": 85,
+    "upper_mm": 88,
+    "result": "偏松"
+  },
+  {
+    "person": "U012",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 184,
+    "upper_mm": 188,
+    "result": "偏紧"
+  },
+  {
+    "person": "U012",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 197,
+    "upper_mm": 205,
+    "result": "适合"
+  },
+  {
+    "person": "U012",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 77,
+    "upper_mm": 79,
+    "result": "偏松"
+  },
+  {
+    "person": "U013",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 172,
+    "upper_mm": 176,
+    "result": "适合"
+  },
+  {
+    "person": "U013",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 185,
+    "upper_mm": 193,
+    "result": "偏松"
+  },
+  {
+    "person": "U013",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 74,
+    "upper_mm": 77,
+    "result": "偏紧"
+  },
+  {
+    "person": "U014",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 173,
+    "upper_mm": 177,
+    "result": "偏松"
+  },
+  {
+    "person": "U014",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "单边未知"
+  },
+  {
+    "person": "U014",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 66,
+    "upper_mm": 68,
+    "result": "偏紧"
+  },
+  {
+    "person": "U014",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 75,
+    "upper_mm": 78,
+    "result": "适合"
+  },
+  {
+    "person": "U015",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 174,
+    "upper_mm": 178,
+    "result": "单边未知"
+  },
+  {
+    "person": "U015",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "偏紧"
+  },
+  {
+    "person": "U015",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 67,
+    "upper_mm": 69,
+    "result": "适合"
+  },
+  {
+    "person": "U015",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 76,
+    "upper_mm": 79,
+    "result": "偏松"
+  },
+  {
+    "person": "U016",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 175,
+    "upper_mm": 179,
+    "result": "偏紧"
+  },
+  {
+    "person": "U016",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "适合"
+  },
+  {
+    "person": "U016",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 68,
+    "upper_mm": 70,
+    "result": "偏松"
+  },
+  {
+    "person": "U016",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 77,
+    "upper_mm": 80,
+    "result": "单边未知"
+  },
+  {
+    "person": "U017",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 176,
+    "upper_mm": 180,
+    "result": "适合"
+  },
+  {
+    "person": "U017",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "偏松"
+  },
+  {
+    "person": "U017",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 69,
+    "upper_mm": 71,
+    "result": "单边未知"
+  },
+  {
+    "person": "U018",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 177,
+    "upper_mm": 181,
+    "result": "偏松"
+  },
+  {
+    "person": "U018",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "单边未知"
+  },
+  {
+    "person": "U018",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 79,
+    "upper_mm": 82,
+    "result": "适合"
+  },
+  {
+    "person": "U019",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 178,
+    "upper_mm": 182,
+    "result": "单边未知"
+  },
+  {
+    "person": "U019",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "偏紧"
+  },
+  {
+    "person": "U019",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 71,
+    "upper_mm": 73,
+    "result": "适合"
+  },
+  {
+    "person": "U019",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 80,
+    "upper_mm": 83,
+    "result": "偏松"
+  },
+  {
+    "person": "U020",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 179,
+    "upper_mm": 183,
+    "result": "偏紧"
+  },
+  {
+    "person": "U020",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 192,
+    "upper_mm": 200,
+    "result": "适合"
+  },
+  {
+    "person": "U020",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 72,
+    "upper_mm": 74,
+    "result": "偏松"
+  },
+  {
+    "person": "U020",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 81,
+    "upper_mm": 84,
+    "result": "单边未知"
+  },
+  {
+    "person": "U021",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 180,
+    "upper_mm": 184,
+    "result": "适合"
+  },
+  {
+    "person": "U021",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "偏松"
+  },
+  {
+    "person": "U021",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 73,
+    "upper_mm": 75,
+    "result": "单边未知"
+  },
+  {
+    "person": "U021",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 82,
+    "upper_mm": 85,
+    "result": "偏紧"
+  },
+  {
+    "person": "U022",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 181,
+    "upper_mm": 185,
+    "result": "偏松"
+  },
+  {
+    "person": "U022",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 194,
+    "upper_mm": 202,
+    "result": "单边未知"
+  },
+  {
+    "person": "U022",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 74,
+    "upper_mm": 76,
+    "result": "偏紧"
+  },
+  {
+    "person": "U023",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 182,
+    "upper_mm": 186,
+    "result": "单边未知"
+  },
+  {
+    "person": "U023",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W02",
+    "lower_mm": 195,
+    "upper_mm": 203,
+    "result": "偏紧"
+  },
+  {
+    "person": "U023",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W02",
+    "lower_mm": 84,
+    "upper_mm": 87,
+    "result": "偏松"
+  },
+  {
+    "person": "U024",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 183,
+    "upper_mm": 187,
+    "result": "偏紧"
+  },
+  {
+    "person": "U024",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "适合"
+  },
+  {
+    "person": "U024",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 76,
+    "upper_mm": 78,
+    "result": "偏松"
+  },
+  {
+    "person": "U024",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 85,
+    "upper_mm": 88,
+    "result": "单边未知"
+  },
+  {
+    "person": "U025",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 184,
+    "upper_mm": 188,
+    "result": "适合"
+  },
+  {
+    "person": "U025",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 197,
+    "upper_mm": 205,
+    "result": "偏松"
+  },
+  {
+    "person": "U025",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 77,
+    "upper_mm": 79,
+    "result": "单边未知"
+  },
+  {
+    "person": "U025",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 86,
+    "upper_mm": 89,
+    "result": "偏紧"
+  },
+  {
+    "person": "U026",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 172,
+    "upper_mm": 176,
+    "result": "偏松"
+  },
+  {
+    "person": "U026",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 185,
+    "upper_mm": 193,
+    "result": "单边未知"
+  },
+  {
+    "person": "U026",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 65,
+    "upper_mm": 67,
+    "result": "偏紧"
+  },
+  {
+    "person": "U026",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 74,
+    "upper_mm": 77,
+    "result": "适合"
+  },
+  {
+    "person": "U027",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 173,
+    "upper_mm": 177,
+    "result": "单边未知"
+  },
+  {
+    "person": "U027",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "偏紧"
+  },
+  {
+    "person": "U027",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 66,
+    "upper_mm": 68,
+    "result": "适合"
+  },
+  {
+    "person": "U028",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 174,
+    "upper_mm": 178,
+    "result": "偏紧"
+  },
+  {
+    "person": "U028",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "适合"
+  },
+  {
+    "person": "U028",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 76,
+    "upper_mm": 79,
+    "result": "单边未知"
+  },
+  {
+    "person": "U029",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 175,
+    "upper_mm": 179,
+    "result": "适合"
+  },
+  {
+    "person": "U029",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "偏松"
+  },
+  {
+    "person": "U029",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 68,
+    "upper_mm": 70,
+    "result": "单边未知"
+  },
+  {
+    "person": "U029",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 77,
+    "upper_mm": 80,
+    "result": "偏紧"
+  },
+  {
+    "person": "U030",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 176,
+    "upper_mm": 180,
+    "result": "偏松"
+  },
+  {
+    "person": "U030",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "单边未知"
+  },
+  {
+    "person": "U030",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 69,
+    "upper_mm": 71,
+    "result": "偏紧"
+  },
+  {
+    "person": "U030",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 78,
+    "upper_mm": 81,
+    "result": "适合"
+  },
+  {
+    "person": "U031",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 177,
+    "upper_mm": 181,
+    "result": "单边未知"
+  },
+  {
+    "person": "U031",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "偏紧"
+  },
+  {
+    "person": "U031",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 70,
+    "upper_mm": 72,
+    "result": "适合"
+  },
+  {
+    "person": "U031",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 79,
+    "upper_mm": 82,
+    "result": "偏松"
+  },
+  {
+    "person": "U032",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 178,
+    "upper_mm": 182,
+    "result": "偏紧"
+  },
+  {
+    "person": "U032",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "适合"
+  },
+  {
+    "person": "U032",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 71,
+    "upper_mm": 73,
+    "result": "偏松"
+  },
+  {
+    "person": "U033",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 179,
+    "upper_mm": 183,
+    "result": "适合"
+  },
+  {
+    "person": "U033",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 192,
+    "upper_mm": 200,
+    "result": "偏松"
+  },
+  {
+    "person": "U033",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 81,
+    "upper_mm": 84,
+    "result": "偏紧"
+  },
+  {
+    "person": "U034",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 180,
+    "upper_mm": 184,
+    "result": "偏松"
+  },
+  {
+    "person": "U034",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "单边未知"
+  },
+  {
+    "person": "U034",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 73,
+    "upper_mm": 75,
+    "result": "偏紧"
+  },
+  {
+    "person": "U034",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 82,
+    "upper_mm": 85,
+    "result": "适合"
+  },
+  {
+    "person": "U035",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 181,
+    "upper_mm": 185,
+    "result": "单边未知"
+  },
+  {
+    "person": "U035",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W03",
+    "lower_mm": 194,
+    "upper_mm": 202,
+    "result": "偏紧"
+  },
+  {
+    "person": "U035",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 74,
+    "upper_mm": 76,
+    "result": "适合"
+  },
+  {
+    "person": "U035",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W03",
+    "lower_mm": 83,
+    "upper_mm": 86,
+    "result": "偏松"
+  },
+  {
+    "person": "U036",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 182,
+    "upper_mm": 186,
+    "result": "偏紧"
+  },
+  {
+    "person": "U036",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 195,
+    "upper_mm": 203,
+    "result": "适合"
+  },
+  {
+    "person": "U036",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 75,
+    "upper_mm": 77,
+    "result": "偏松"
+  },
+  {
+    "person": "U036",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 84,
+    "upper_mm": 87,
+    "result": "单边未知"
+  },
+  {
+    "person": "U037",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 183,
+    "upper_mm": 187,
+    "result": "适合"
+  },
+  {
+    "person": "U037",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "偏松"
+  },
+  {
+    "person": "U037",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 76,
+    "upper_mm": 78,
+    "result": "单边未知"
+  },
+  {
+    "person": "U038",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 184,
+    "upper_mm": 188,
+    "result": "偏松"
+  },
+  {
+    "person": "U038",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 197,
+    "upper_mm": 205,
+    "result": "单边未知"
+  },
+  {
+    "person": "U038",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 86,
+    "upper_mm": 89,
+    "result": "适合"
+  },
+  {
+    "person": "U039",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 172,
+    "upper_mm": 176,
+    "result": "单边未知"
+  },
+  {
+    "person": "U039",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 185,
+    "upper_mm": 193,
+    "result": "偏紧"
+  },
+  {
+    "person": "U039",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 65,
+    "upper_mm": 67,
+    "result": "适合"
+  },
+  {
+    "person": "U039",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 74,
+    "upper_mm": 77,
+    "result": "偏松"
+  },
+  {
+    "person": "U040",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 173,
+    "upper_mm": 177,
+    "result": "偏紧"
+  },
+  {
+    "person": "U040",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "适合"
+  },
+  {
+    "person": "U040",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 66,
+    "upper_mm": 68,
+    "result": "偏松"
+  },
+  {
+    "person": "U040",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 75,
+    "upper_mm": 78,
+    "result": "单边未知"
+  },
+  {
+    "person": "U041",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 174,
+    "upper_mm": 178,
+    "result": "适合"
+  },
+  {
+    "person": "U041",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "偏松"
+  },
+  {
+    "person": "U041",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 67,
+    "upper_mm": 69,
+    "result": "单边未知"
+  },
+  {
+    "person": "U041",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 76,
+    "upper_mm": 79,
+    "result": "偏紧"
+  },
+  {
+    "person": "U042",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 175,
+    "upper_mm": 179,
+    "result": "偏松"
+  },
+  {
+    "person": "U042",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "单边未知"
+  },
+  {
+    "person": "U042",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 68,
+    "upper_mm": 70,
+    "result": "偏紧"
+  },
+  {
+    "person": "U043",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 176,
+    "upper_mm": 180,
+    "result": "单边未知"
+  },
+  {
+    "person": "U043",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "偏紧"
+  },
+  {
+    "person": "U043",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 78,
+    "upper_mm": 81,
+    "result": "偏松"
+  },
+  {
+    "person": "U044",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 177,
+    "upper_mm": 181,
+    "result": "偏紧"
+  },
+  {
+    "person": "U044",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "适合"
+  },
+  {
+    "person": "U044",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 70,
+    "upper_mm": 72,
+    "result": "偏松"
+  },
+  {
+    "person": "U044",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 79,
+    "upper_mm": 82,
+    "result": "单边未知"
+  },
+  {
+    "person": "U045",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 178,
+    "upper_mm": 182,
+    "result": "适合"
+  },
+  {
+    "person": "U045",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "偏松"
+  },
+  {
+    "person": "U045",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 71,
+    "upper_mm": 73,
+    "result": "单边未知"
+  },
+  {
+    "person": "U045",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 80,
+    "upper_mm": 83,
+    "result": "偏紧"
+  },
+  {
+    "person": "U046",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 179,
+    "upper_mm": 183,
+    "result": "偏松"
+  },
+  {
+    "person": "U046",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 192,
+    "upper_mm": 200,
+    "result": "单边未知"
+  },
+  {
+    "person": "U046",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 72,
+    "upper_mm": 74,
+    "result": "偏紧"
+  },
+  {
+    "person": "U046",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 81,
+    "upper_mm": 84,
+    "result": "适合"
+  },
+  {
+    "person": "U047",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 180,
+    "upper_mm": 184,
+    "result": "单边未知"
+  },
+  {
+    "person": "U047",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W04",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "偏紧"
+  },
+  {
+    "person": "U047",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W04",
+    "lower_mm": 73,
+    "upper_mm": 75,
+    "result": "适合"
+  },
+  {
+    "person": "U048",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 181,
+    "upper_mm": 185,
+    "result": "偏紧"
+  },
+  {
+    "person": "U048",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 194,
+    "upper_mm": 202,
+    "result": "适合"
+  },
+  {
+    "person": "U048",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 83,
+    "upper_mm": 86,
+    "result": "单边未知"
+  },
+  {
+    "person": "U049",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 182,
+    "upper_mm": 186,
+    "result": "适合"
+  },
+  {
+    "person": "U049",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 195,
+    "upper_mm": 203,
+    "result": "偏松"
+  },
+  {
+    "person": "U049",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 75,
+    "upper_mm": 77,
+    "result": "单边未知"
+  },
+  {
+    "person": "U049",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 84,
+    "upper_mm": 87,
+    "result": "偏紧"
+  },
+  {
+    "person": "U050",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 183,
+    "upper_mm": 187,
+    "result": "偏松"
+  },
+  {
+    "person": "U050",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "单边未知"
+  },
+  {
+    "person": "U050",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 76,
+    "upper_mm": 78,
+    "result": "偏紧"
+  },
+  {
+    "person": "U050",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 85,
+    "upper_mm": 88,
+    "result": "适合"
+  },
+  {
+    "person": "U051",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 184,
+    "upper_mm": 188,
+    "result": "单边未知"
+  },
+  {
+    "person": "U051",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 197,
+    "upper_mm": 205,
+    "result": "偏紧"
+  },
+  {
+    "person": "U051",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 77,
+    "upper_mm": 79,
+    "result": "适合"
+  },
+  {
+    "person": "U051",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 86,
+    "upper_mm": 89,
+    "result": "偏松"
+  },
+  {
+    "person": "U052",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 172,
+    "upper_mm": 176,
+    "result": "偏紧"
+  },
+  {
+    "person": "U052",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 185,
+    "upper_mm": 193,
+    "result": "适合"
+  },
+  {
+    "person": "U052",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 65,
+    "upper_mm": 67,
+    "result": "偏松"
+  },
+  {
+    "person": "U053",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 173,
+    "upper_mm": 177,
+    "result": "适合"
+  },
+  {
+    "person": "U053",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "偏松"
+  },
+  {
+    "person": "U053",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 75,
+    "upper_mm": 78,
+    "result": "偏紧"
+  },
+  {
+    "person": "U054",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 174,
+    "upper_mm": 178,
+    "result": "偏松"
+  },
+  {
+    "person": "U054",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "单边未知"
+  },
+  {
+    "person": "U054",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 67,
+    "upper_mm": 69,
+    "result": "偏紧"
+  },
+  {
+    "person": "U054",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 76,
+    "upper_mm": 79,
+    "result": "适合"
+  },
+  {
+    "person": "U055",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 175,
+    "upper_mm": 179,
+    "result": "单边未知"
+  },
+  {
+    "person": "U055",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "偏紧"
+  },
+  {
+    "person": "U055",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 68,
+    "upper_mm": 70,
+    "result": "适合"
+  },
+  {
+    "person": "U055",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 77,
+    "upper_mm": 80,
+    "result": "偏松"
+  },
+  {
+    "person": "U056",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 176,
+    "upper_mm": 180,
+    "result": "偏紧"
+  },
+  {
+    "person": "U056",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "适合"
+  },
+  {
+    "person": "U056",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 69,
+    "upper_mm": 71,
+    "result": "偏松"
+  },
+  {
+    "person": "U056",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 78,
+    "upper_mm": 81,
+    "result": "单边未知"
+  },
+  {
+    "person": "U057",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 177,
+    "upper_mm": 181,
+    "result": "适合"
+  },
+  {
+    "person": "U057",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "偏松"
+  },
+  {
+    "person": "U057",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 70,
+    "upper_mm": 72,
+    "result": "单边未知"
+  },
+  {
+    "person": "U058",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 178,
+    "upper_mm": 182,
+    "result": "偏松"
+  },
+  {
+    "person": "U058",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "单边未知"
+  },
+  {
+    "person": "U058",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 80,
+    "upper_mm": 83,
+    "result": "适合"
+  },
+  {
+    "person": "U059",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 179,
+    "upper_mm": 183,
+    "result": "单边未知"
+  },
+  {
+    "person": "U059",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W05",
+    "lower_mm": 192,
+    "upper_mm": 200,
+    "result": "偏紧"
+  },
+  {
+    "person": "U059",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 72,
+    "upper_mm": 74,
+    "result": "适合"
+  },
+  {
+    "person": "U059",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W05",
+    "lower_mm": 81,
+    "upper_mm": 84,
+    "result": "偏松"
+  },
+  {
+    "person": "U060",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 180,
+    "upper_mm": 184,
+    "result": "偏紧"
+  },
+  {
+    "person": "U060",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "适合"
+  },
+  {
+    "person": "U060",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 73,
+    "upper_mm": 75,
+    "result": "偏松"
+  },
+  {
+    "person": "U060",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 82,
+    "upper_mm": 85,
+    "result": "单边未知"
+  },
+  {
+    "person": "U061",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 181,
+    "upper_mm": 185,
+    "result": "适合"
+  },
+  {
+    "person": "U061",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 194,
+    "upper_mm": 202,
+    "result": "偏松"
+  },
+  {
+    "person": "U061",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 74,
+    "upper_mm": 76,
+    "result": "单边未知"
+  },
+  {
+    "person": "U061",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 83,
+    "upper_mm": 86,
+    "result": "偏紧"
+  },
+  {
+    "person": "U062",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 182,
+    "upper_mm": 186,
+    "result": "偏松"
+  },
+  {
+    "person": "U062",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 195,
+    "upper_mm": 203,
+    "result": "单边未知"
+  },
+  {
+    "person": "U062",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 75,
+    "upper_mm": 77,
+    "result": "偏紧"
+  },
+  {
+    "person": "U063",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 183,
+    "upper_mm": 187,
+    "result": "单边未知"
+  },
+  {
+    "person": "U063",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "偏紧"
+  },
+  {
+    "person": "U063",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 85,
+    "upper_mm": 88,
+    "result": "偏松"
+  },
+  {
+    "person": "U064",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 184,
+    "upper_mm": 188,
+    "result": "偏紧"
+  },
+  {
+    "person": "U064",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 197,
+    "upper_mm": 205,
+    "result": "适合"
+  },
+  {
+    "person": "U064",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 77,
+    "upper_mm": 79,
+    "result": "偏松"
+  },
+  {
+    "person": "U064",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 86,
+    "upper_mm": 89,
+    "result": "单边未知"
+  },
+  {
+    "person": "U065",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 172,
+    "upper_mm": 176,
+    "result": "适合"
+  },
+  {
+    "person": "U065",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 185,
+    "upper_mm": 193,
+    "result": "偏松"
+  },
+  {
+    "person": "U065",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 65,
+    "upper_mm": 67,
+    "result": "单边未知"
+  },
+  {
+    "person": "U065",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 74,
+    "upper_mm": 77,
+    "result": "偏紧"
+  },
+  {
+    "person": "U066",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 173,
+    "upper_mm": 177,
+    "result": "偏松"
+  },
+  {
+    "person": "U066",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "单边未知"
+  },
+  {
+    "person": "U066",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 66,
+    "upper_mm": 68,
+    "result": "偏紧"
+  },
+  {
+    "person": "U066",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 75,
+    "upper_mm": 78,
+    "result": "适合"
+  },
+  {
+    "person": "U067",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 174,
+    "upper_mm": 178,
+    "result": "单边未知"
+  },
+  {
+    "person": "U067",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "偏紧"
+  },
+  {
+    "person": "U067",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 67,
+    "upper_mm": 69,
+    "result": "适合"
+  },
+  {
+    "person": "U068",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 175,
+    "upper_mm": 179,
+    "result": "偏紧"
+  },
+  {
+    "person": "U068",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "适合"
+  },
+  {
+    "person": "U068",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 77,
+    "upper_mm": 80,
+    "result": "单边未知"
+  },
+  {
+    "person": "U069",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 176,
+    "upper_mm": 180,
+    "result": "适合"
+  },
+  {
+    "person": "U069",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "偏松"
+  },
+  {
+    "person": "U069",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 69,
+    "upper_mm": 71,
+    "result": "单边未知"
+  },
+  {
+    "person": "U069",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 78,
+    "upper_mm": 81,
+    "result": "偏紧"
+  },
+  {
+    "person": "U070",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 177,
+    "upper_mm": 181,
+    "result": "偏松"
+  },
+  {
+    "person": "U070",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "单边未知"
+  },
+  {
+    "person": "U070",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 70,
+    "upper_mm": 72,
+    "result": "偏紧"
+  },
+  {
+    "person": "U070",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 79,
+    "upper_mm": 82,
+    "result": "适合"
+  },
+  {
+    "person": "U071",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 178,
+    "upper_mm": 182,
+    "result": "单边未知"
+  },
+  {
+    "person": "U071",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W06",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "偏紧"
+  },
+  {
+    "person": "U071",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 71,
+    "upper_mm": 73,
+    "result": "适合"
+  },
+  {
+    "person": "U071",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W06",
+    "lower_mm": 80,
+    "upper_mm": 83,
+    "result": "偏松"
+  },
+  {
+    "person": "U072",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 179,
+    "upper_mm": 183,
+    "result": "偏紧"
+  },
+  {
+    "person": "U072",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 192,
+    "upper_mm": 200,
+    "result": "适合"
+  },
+  {
+    "person": "U072",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 72,
+    "upper_mm": 74,
+    "result": "偏松"
+  },
+  {
+    "person": "U073",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 180,
+    "upper_mm": 184,
+    "result": "适合"
+  },
+  {
+    "person": "U073",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "偏松"
+  },
+  {
+    "person": "U073",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 82,
+    "upper_mm": 85,
+    "result": "偏紧"
+  },
+  {
+    "person": "U074",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 181,
+    "upper_mm": 185,
+    "result": "偏松"
+  },
+  {
+    "person": "U074",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 194,
+    "upper_mm": 202,
+    "result": "单边未知"
+  },
+  {
+    "person": "U074",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 74,
+    "upper_mm": 76,
+    "result": "偏紧"
+  },
+  {
+    "person": "U074",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 83,
+    "upper_mm": 86,
+    "result": "适合"
+  },
+  {
+    "person": "U075",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 182,
+    "upper_mm": 186,
+    "result": "单边未知"
+  },
+  {
+    "person": "U075",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 195,
+    "upper_mm": 203,
+    "result": "偏紧"
+  },
+  {
+    "person": "U075",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 75,
+    "upper_mm": 77,
+    "result": "适合"
+  },
+  {
+    "person": "U075",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 84,
+    "upper_mm": 87,
+    "result": "偏松"
+  },
+  {
+    "person": "U076",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 183,
+    "upper_mm": 187,
+    "result": "偏紧"
+  },
+  {
+    "person": "U076",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "适合"
+  },
+  {
+    "person": "U076",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 76,
+    "upper_mm": 78,
+    "result": "偏松"
+  },
+  {
+    "person": "U076",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 85,
+    "upper_mm": 88,
+    "result": "单边未知"
+  },
+  {
+    "person": "U077",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 184,
+    "upper_mm": 188,
+    "result": "适合"
+  },
+  {
+    "person": "U077",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 197,
+    "upper_mm": 205,
+    "result": "偏松"
+  },
+  {
+    "person": "U077",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 77,
+    "upper_mm": 79,
+    "result": "单边未知"
+  },
+  {
+    "person": "U078",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 172,
+    "upper_mm": 176,
+    "result": "偏松"
+  },
+  {
+    "person": "U078",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 185,
+    "upper_mm": 193,
+    "result": "单边未知"
+  },
+  {
+    "person": "U078",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 74,
+    "upper_mm": 77,
+    "result": "适合"
+  },
+  {
+    "person": "U079",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 173,
+    "upper_mm": 177,
+    "result": "单边未知"
+  },
+  {
+    "person": "U079",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "偏紧"
+  },
+  {
+    "person": "U079",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 66,
+    "upper_mm": 68,
+    "result": "适合"
+  },
+  {
+    "person": "U079",
+    "cohort": "青少年",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 75,
+    "upper_mm": 78,
+    "result": "偏松"
+  },
+  {
+    "person": "U080",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 174,
+    "upper_mm": 178,
+    "result": "偏紧"
+  },
+  {
+    "person": "U080",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "适合"
+  },
+  {
+    "person": "U080",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 67,
+    "upper_mm": 69,
+    "result": "偏松"
+  },
+  {
+    "person": "U080",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 76,
+    "upper_mm": 79,
+    "result": "单边未知"
+  },
+  {
+    "person": "U081",
+    "cohort": "大众",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 175,
+    "upper_mm": 179,
+    "result": "适合"
+  },
+  {
+    "person": "U081",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "偏松"
+  },
+  {
+    "person": "U081",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 68,
+    "upper_mm": 70,
+    "result": "单边未知"
+  },
+  {
+    "person": "U081",
+    "cohort": "大众",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 77,
+    "upper_mm": 80,
+    "result": "偏紧"
+  },
+  {
+    "person": "U082",
+    "cohort": "青少年",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 176,
+    "upper_mm": 180,
+    "result": "偏松"
+  },
+  {
+    "person": "U082",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "单边未知"
+  },
+  {
+    "person": "U082",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 69,
+    "upper_mm": 71,
+    "result": "偏紧"
+  },
+  {
+    "person": "U083",
+    "cohort": "专业",
+    "sku": "S1",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 177,
+    "upper_mm": 181,
+    "result": "单边未知"
+  },
+  {
+    "person": "U083",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V1",
+    "week": "W07",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "偏紧"
+  },
+  {
+    "person": "U083",
+    "cohort": "专业",
+    "sku": "B2",
+    "version": "V3",
+    "week": "W07",
+    "lower_mm": 79,
+    "upper_mm": 82,
+    "result": "偏松"
+  },
+  {
+    "person": "C-sole",
+    "cohort": "作业",
+    "sku": "C1",
+    "version": "V5",
+    "week": "W12",
+    "lower_mm": 81,
+    "upper_mm": 87,
+    "result": "适合"
+  },
+  {
+    "person": "U000",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "适合"
+  },
+  {
+    "person": "U002",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "单边未知"
+  },
+  {
+    "person": "U002",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 66,
+    "upper_mm": 68,
+    "result": "偏紧"
+  },
+  {
+    "person": "U005",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "偏松"
+  },
+  {
+    "person": "U007",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "偏紧"
+  },
+  {
+    "person": "U007",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 71,
+    "upper_mm": 73,
+    "result": "适合"
+  },
+  {
+    "person": "U010",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "单边未知"
+  },
+  {
+    "person": "U012",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 198,
+    "upper_mm": 206,
+    "result": "适合"
+  },
+  {
+    "person": "U012",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 76,
+    "upper_mm": 78,
+    "result": "偏松"
+  },
+  {
+    "person": "U015",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "偏紧"
+  },
+  {
+    "person": "U017",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "偏松"
+  },
+  {
+    "person": "U017",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 68,
+    "upper_mm": 70,
+    "result": "单边未知"
+  },
+  {
+    "person": "U020",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "适合"
+  },
+  {
+    "person": "U022",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 195,
+    "upper_mm": 203,
+    "result": "单边未知"
+  },
+  {
+    "person": "U022",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 73,
+    "upper_mm": 75,
+    "result": "偏紧"
+  },
+  {
+    "person": "U025",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 198,
+    "upper_mm": 206,
+    "result": "偏松"
+  },
+  {
+    "person": "U027",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "偏紧"
+  },
+  {
+    "person": "U027",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 65,
+    "upper_mm": 67,
+    "result": "适合"
+  },
+  {
+    "person": "U030",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "单边未知"
+  },
+  {
+    "person": "U032",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 192,
+    "upper_mm": 200,
+    "result": "适合"
+  },
+  {
+    "person": "U032",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 70,
+    "upper_mm": 72,
+    "result": "偏松"
+  },
+  {
+    "person": "U035",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 195,
+    "upper_mm": 203,
+    "result": "偏紧"
+  },
+  {
+    "person": "U037",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 197,
+    "upper_mm": 205,
+    "result": "偏松"
+  },
+  {
+    "person": "U037",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 75,
+    "upper_mm": 77,
+    "result": "单边未知"
+  },
+  {
+    "person": "U040",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 187,
+    "upper_mm": 195,
+    "result": "适合"
+  },
+  {
+    "person": "U042",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "单边未知"
+  },
+  {
+    "person": "U042",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 67,
+    "upper_mm": 69,
+    "result": "偏紧"
+  },
+  {
+    "person": "U045",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 192,
+    "upper_mm": 200,
+    "result": "偏松"
+  },
+  {
+    "person": "U047",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 194,
+    "upper_mm": 202,
+    "result": "偏紧"
+  },
+  {
+    "person": "U047",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 72,
+    "upper_mm": 74,
+    "result": "适合"
+  },
+  {
+    "person": "U050",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 197,
+    "upper_mm": 205,
+    "result": "单边未知"
+  },
+  {
+    "person": "U052",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "适合"
+  },
+  {
+    "person": "U052",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 64,
+    "upper_mm": 66,
+    "result": "偏松"
+  },
+  {
+    "person": "U055",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 189,
+    "upper_mm": 197,
+    "result": "偏紧"
+  },
+  {
+    "person": "U057",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "偏松"
+  },
+  {
+    "person": "U057",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 69,
+    "upper_mm": 71,
+    "result": "单边未知"
+  },
+  {
+    "person": "U060",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 194,
+    "upper_mm": 202,
+    "result": "适合"
+  },
+  {
+    "person": "U062",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "单边未知"
+  },
+  {
+    "person": "U062",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 74,
+    "upper_mm": 76,
+    "result": "偏紧"
+  },
+  {
+    "person": "U065",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 186,
+    "upper_mm": 194,
+    "result": "偏松"
+  },
+  {
+    "person": "U067",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "偏紧"
+  },
+  {
+    "person": "U067",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 66,
+    "upper_mm": 68,
+    "result": "适合"
+  },
+  {
+    "person": "U070",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 191,
+    "upper_mm": 199,
+    "result": "单边未知"
+  },
+  {
+    "person": "U072",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 193,
+    "upper_mm": 201,
+    "result": "适合"
+  },
+  {
+    "person": "U072",
+    "cohort": "大众",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 71,
+    "upper_mm": 73,
+    "result": "偏松"
+  },
+  {
+    "person": "U075",
+    "cohort": "大众",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 196,
+    "upper_mm": 204,
+    "result": "偏紧"
+  },
+  {
+    "person": "U077",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 198,
+    "upper_mm": 206,
+    "result": "偏松"
+  },
+  {
+    "person": "U077",
+    "cohort": "专业",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 76,
+    "upper_mm": 78,
+    "result": "单边未知"
+  },
+  {
+    "person": "U080",
+    "cohort": "专业",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 188,
+    "upper_mm": 196,
+    "result": "适合"
+  },
+  {
+    "person": "U082",
+    "cohort": "青少年",
+    "sku": "S2",
+    "version": "V2",
+    "week": "W12",
+    "lower_mm": 190,
+    "upper_mm": 198,
+    "result": "单边未知"
+  },
+  {
+    "person": "U082",
+    "cohort": "青少年",
+    "sku": "B1",
+    "version": "V4",
+    "week": "W13",
+    "lower_mm": 68,
+    "upper_mm": 70,
+    "result": "偏紧"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "exchange": "E1",
+    "order": "O1",
+    "candidate": "B1",
+    "candidate_version": "V3",
+    "issue": "标注争议",
+    "vendor": "北柜",
+    "reserved_shipment": null,
+    "cost": 12,
+    "booked": "W10",
+    "status": "已受理"
+  },
+  {
+    "exchange": "E2",
+    "order": "O2",
+    "candidate": "B1",
+    "candidate_version": "V3",
+    "issue": "标注争议",
+    "vendor": "北柜",
+    "reserved_shipment": "X1",
+    "cost": 18,
+    "booked": "W11",
+    "status": "已签收"
+  },
+  {
+    "exchange": "E3",
+    "order": "O3",
+    "candidate": "S1",
+    "candidate_version": "V1",
+    "issue": "偏好变更",
+    "vendor": "南柜",
+    "reserved_shipment": "X2",
+    "cost": 9,
+    "booked": "W10",
+    "status": "在途"
+  },
+  {
+    "exchange": "E4",
+    "order": "O4",
+    "candidate": "C1",
+    "candidate_version": "V5",
+    "issue": "适配不明",
+    "vendor": "南柜",
+    "reserved_shipment": null,
+    "cost": 12,
+    "booked": "W12",
+    "status": "申请"
+  }
+]

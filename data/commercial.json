@@ -1,0 +1,23 @@
+[
+  {
+    "issue": "标注争议",
+    "freight_bearer": "商家",
+    "gap_bearer": "品牌",
+    "allowed_pair_overlap": true,
+    "min_cap": 0
+  },
+  {
+    "issue": "偏好变更",
+    "freight_bearer": "买方",
+    "gap_bearer": "买方",
+    "allowed_pair_overlap": true,
+    "min_cap": 0
+  },
+  {
+    "issue": "适配不明",
+    "freight_bearer": "待复核",
+    "gap_bearer": "待复核",
+    "allowed_pair_overlap": true,
+    "min_cap": 0
+  }
+]

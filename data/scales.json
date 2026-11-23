@@ -1,0 +1,79 @@
+[
+  {
+    "version": "V1",
+    "class": "雪手套",
+    "sku": "S1",
+    "method": "手围",
+    "mark": "小",
+    "lower_mm": 170,
+    "upper_mm": 188,
+    "publish_week": "W01",
+    "replace": null
+  },
+  {
+    "version": "V1",
+    "class": "雪手套",
+    "sku": "S2",
+    "method": "手围",
+    "mark": "中",
+    "lower_mm": 188,
+    "upper_mm": 207,
+    "publish_week": "W01",
+    "replace": null
+  },
+  {
+    "version": "V2",
+    "class": "雪手套",
+    "sku": "S2",
+    "method": "手围",
+    "mark": "中",
+    "lower_mm": 196,
+    "upper_mm": 212,
+    "publish_week": "W09",
+    "replace": "V1"
+  },
+  {
+    "version": "V3",
+    "class": "骑行护具",
+    "sku": "B1",
+    "method": "指长",
+    "mark": "小",
+    "lower_mm": 67,
+    "upper_mm": 74,
+    "publish_week": "W03",
+    "replace": null
+  },
+  {
+    "version": "V3",
+    "class": "骑行护具",
+    "sku": "B2",
+    "method": "指长",
+    "mark": "中",
+    "lower_mm": 74,
+    "upper_mm": 80,
+    "publish_week": "W03",
+    "replace": null
+  },
+  {
+    "version": "V4",
+    "class": "骑行护具",
+    "sku": "B1",
+    "method": "指长",
+    "mark": "小",
+    "lower_mm": 64,
+    "upper_mm": 72,
+    "publish_week": "W12",
+    "replace": "V3"
+  },
+  {
+    "version": "V5",
+    "class": "作业护具",
+    "sku": "C1",
+    "method": "掌宽",
+    "mark": "一号",
+    "lower_mm": 80,
+    "upper_mm": 88,
+    "publish_week": "W11",
+    "replace": null
+  }
+]
